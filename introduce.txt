@@ -1,0 +1,38 @@
+**Gecko Dash Cam** is an in-car driving recording app that captures unexpected events during driving by simply installing and running the app. Users can record the 10 seconds (adjustable) before an incident occurs using voice, gestures, or Bluetooth commands, and can upload and report with one click.
+
+**Key Innovations:**
+1. **Flexible Control Options**: Capture events using gestures, voice commands, or a Bluetooth button.
+2. **Automatic License Plate Recognition**: Automatically extracts the license plate of offending vehicles from the captured video.
+3. **Location-Based Reporting**: Automatically reports incidents to local traffic authorities using social media platforms.
+4. **Voice-Enabled Messaging**: Broadcasts WeChat messages via voice, allowing drivers to stay focused and reduce accidents.
+5. **Customizable SOS Function**: Notifies designated contacts or insurance agents during emergencies; future integration with police and roadside assistance.
+6. **Accident Map**: Provides information on high-risk areas, helping drivers avoid accident-prone locations.
+7. **Big Data Analysis**: Analyzes user-uploaded locations and safety incidents, offering valuable data for government, traffic authorities, and insurance companies.
+
+**Advantages over Traditional Dash Cams:**
+1. **Precise Video Recording**: Captures only relevant footage, eliminating unnecessary videos.
+2. **Instant Reporting and Sharing**: Allows for immediate incident reporting and video sharing without the need for hardware extraction.
+3. **Access to Community Videos**: View videos uploaded by other users at any time.
+4. **Additional Features**: Includes accident maps and other users' uploaded videos for comprehensive safety insights.
+
+**Advantages over Other Dash Cam Apps:**
+1. **Convenient Control Methods**: Multiple ways to control the app for ease of use.
+2. **Enhanced Reporting Features**: Immediate reporting of unsafe driving behaviors to reduce road rage.
+3. **Integrated Features**: Combines voice messaging and navigation, positioning the app as a potential entry point for connected car users.
+4. **Driving Safety Big Data**: Provides valuable data for traffic management and urban planning.
+
+**Monetization Strategies:**
+1. **Product Bundling**: Sales of software and related hardware.
+2. **Custom Versions for Ecosystem Partners**: Creating specialized versions for companies like Ping An, Didi, and Ctrip.
+3. **Value-Added Services**: Offering one-click voice services similar to OnStar.
+4. **Automotive Product Promotion Platform**: Leveraging a large user base to promote car-related products.
+
+**Target Audience:**
+1. Car owners without a dash cam.
+2. Car owners dissatisfied with their current dash cam.
+3. Enterprise users with dash cam needs.
+
+**Value Proposition:**
+1. **Convenient Reporting**: Easily report unsafe or illegal behavior.
+2. **Professional Dash Cam Features**: Gain advanced dash cam functionalities with minimal cost.
+3. **Safe Driving Alerts**: Use driving records and alerts about high-risk areas to drive more safely.
